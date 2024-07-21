@@ -1,4 +1,5 @@
-# HTML Email Template
+# Email Template
+Email template using html.
 ![image](https://github.com/Jomonh/html-email-template/blob/main/img1.png)
 ![image](https://github.com/Jomonh/html-email-template/blob/main/img2.png)
 
